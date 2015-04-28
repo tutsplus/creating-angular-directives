@@ -13,5 +13,5 @@ These are source files for the Tuts+ course: [Creating Angular Directives][publi
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses
+[published url]: https://code.tutsplus.com/courses/creating-angular-directives
 [instructor url]: https://tutsplus.com/authors/andrew-burgess
